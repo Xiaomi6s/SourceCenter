@@ -34,7 +34,7 @@
     LineNavigationController *nav = [[LineNavigationController alloc] initWithRootViewController:tabar];
     self.nav = nav;
     self.window.rootViewController = nav;
-    
+        //测试的啊
     return YES;
 }
 
